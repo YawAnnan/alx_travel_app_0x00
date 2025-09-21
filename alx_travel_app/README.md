@@ -1,4 +1,9 @@
-
+django
+djangorestframework
+django-cors-headers
+celery
+rabbitmq
+drf-yasg
 
 
 
